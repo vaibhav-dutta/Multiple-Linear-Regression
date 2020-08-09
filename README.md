@@ -1,2 +1,6 @@
 # Multiple-Linear-Regression
-![Correlation Matrix] (/Data/CorrMatrix.png)
+
+
+Correlation Matrix
+
+![] (Data/Corr%20Matrix.png)
