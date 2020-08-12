@@ -1,6 +1,5 @@
 # Multiple-Linear-Regression
 
 
-Correlation Matrix
 
-![](Data/Model%20Fit.png)
+![Interaction-Model-Prediction](Data/Model%20Fit.png)
