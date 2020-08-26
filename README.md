@@ -9,8 +9,8 @@ Predicting Sales based on various advertisment factors.
 * Is there synergy among the advertising media.
 
 
-# synergy Model Prediction
+# Synergy Model Prediction
 ![](Data/Model%20Fit.png)
 
 # Source 
-[Introluction to S tatistical Learning](https://www.kaggle.com/ishaanv/ISLR-Auto)
+[Introluction to Statistical Learning](https://www.kaggle.com/ishaanv/ISLR-Auto)
