@@ -13,4 +13,4 @@ Predicting Sales based on various advertisment factors.
 ![](Data/Model%20Fit.png)
 
 # Source 
-[Introluction to Statistical Learning](https://www.kaggle.com/ishaanv/ISLR-Auto)
+[Introluction to Statistical Learning](https://www.kaggle.com/hellbuoy/sales-advertisment)
